@@ -4,7 +4,7 @@ To run my programs you need to have the Pascal's compiler installed on your syst
 https://www.freepascal.org/download.html
 
 Português:
-Esse foi meu primeiro programa utilizando a linguagem Pascal. Estou me utilizando desta linguagem para aprimorar minha lógica de programação e estruturação de um código.
+Esse foi meu primeiro programa utilizando a linguagem Pascal. Estou utilizando esta linguagem para aprimorar minha lógica de programação e estruturação de um código.
 
 Como funciona o código:
 O código basicamente está estruturado em quatro procedimentos (procedures) diferentes, uma para cada operação matemática básica. Além de um corpo principal que é o menu inicial mostrado ao usuário.
