@@ -197,7 +197,7 @@ begin
 		gotoxy(5,10); write('Welcome to the Student Register. ');
 		gotoxy(5,11); write('Select an option ');
 		gotoxy(10,13); write('1 - Register students ');
-		gotoxy(10,14); write('2 - Order students by alphabetic order ');
+		gotoxy(10,14); write('2 - Sort students by alphabetical ');
 		gotoxy(10,15); write('3 - Show all ');
 		gotoxy(10,16); write('4 - Make a .txt file ');
 		gotoxy(10,17); write('5 - Exit ');
