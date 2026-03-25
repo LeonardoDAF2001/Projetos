@@ -116,7 +116,7 @@ for i:=1 to MAX do
 		
 		writeln('Student avarage: ',aluno[i].media:0:2);
 		if(aluno[i].media>=7)  then
-		writeln('Situation: Approved')
+		writeln('Situation: Passed')
 		else	
 		writeln('Situation: Failed');
 
@@ -146,7 +146,7 @@ begin
 		
 		writeln(arquivo,'Student avarage: ',aluno[i].media:0:2);
 		if(aluno[i].media>=7) then
-		writeln(arquivo,'Situation: Approved')
+		writeln(arquivo,'Situation: Passed')
 		else	
 		writeln(arquivo,'Situation: Failed');
 
